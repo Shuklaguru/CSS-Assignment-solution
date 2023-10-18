@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    padding: 0%;
+ 
+
+}
+.box{
+    width: 100%;
+    height: auto;
+    background-color: blanchedalmond;
+   text-decoration: none;
+   text-align: center;
+    padding-bottom: 10px;
+    
+    border: 2px solid black;
+}

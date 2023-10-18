@@ -1,0 +1,30 @@
+body, ul{
+ 
+  padding: 0;
+  margin: 0;
+ 
+}
+
+nav{
+    background-color: #333;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    
+}
+
+li{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: antiquewhite;
+    transition: 10px 0;
+}
+a:hover {
+    color: #c6cd4b;
+}
